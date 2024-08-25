@@ -1,6 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center"> Hiya 👋 I'm Abhishek Dutta, A Certified 🎖️ Technological 👨‍💻 Geek 🤓 </h1>
-<h3 align="center"> Experiences 🧪 Forge ⚒️ Dreams 💭 Igniting 🔥 Ambitions ❤️‍🔥 </h3>
+<h1 align="center"> Hiya👋I'm Abhishek Dutta, 🅰️Certified🎖️Technological👨‍💻Geek🤓 </h1>
+<h3 align="center"> Experiences🧪Forge⚒️Dreams💭Igniting🔥Ambitions❤️‍🔥 </h3>
+<br>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" style="border-radius: 15px; padding-left: 10px;">
 
 
