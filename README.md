@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dutta</h1>
-<h3 align="center"> Driven by a passion for learning and a strong aptitude for technology, I'm skilled in 4+ computer languages and bring a strong work ethic </h3>
+
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" style="border-radius: 15px; padding-left: 10px;">
 
 
