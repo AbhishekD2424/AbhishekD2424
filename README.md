@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abhishekdutta2424@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFqwRWcInY/By-ZjQdILupWTrCPD5JIhg/view?utm_content=DAFqwRWcInY&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFqwRWcInY/By-ZjQdILupWTrCPD5JIhg/view?utm_content=DAFqwRWcInY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFqwRWcInY/By-ZjQdILupWTrCPD5JIhg/view?utm_content=DAFqwRWcInY&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFccGYh6H8/fzQJEEkVJ3PfxRyjjfmEaQ/view?utm_content=DAFccGYh6H8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 - ⚡ Fun fact about me, I'm **(In)Genius, Billionaire (to be), (Introvert) Playboy, (Self-Proclaimed) Philanthropist**.
 
