@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dutta</h1>
 <h3 align="center"> Driven by a passion for learning and a strong aptitude for technology, I'm skilled in 4+ computer languages and bring a strong work ethic </h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" style="border-radius: 15px; padding-left: 10px;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekd2424&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekd2424" /> </p>
-
-<p align="left"> <a href="https://twitter.com/abhishek22424" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek22424?logo=twitter&style=for-the-badge" alt="abhishek22424" /></a> </p>
 
 - 💬 Ask me about **C Programming, C++, C#.NET, Python, Java, JavaScript, HTML/CSS, Android Development (XML), Arduino, SQL, Linux, Git, DSA, OOPs, DBMS, Networking, Cyber Security, Machine Learning, Full Stack Development**
 
@@ -12,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFqwRWcInY/By-ZjQdILupWTrCPD5JIhg/view?utm_content=DAFqwRWcInY&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFqwRWcInY/By-ZjQdILupWTrCPD5JIhg/view?utm_content=DAFqwRWcInY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-- ⚡ Fun fact **(In)Genius, Billionaire (to be), (Introvert) Playboy, (Self Proclaimed) Philanthropist**
+- ⚡ Fun fact **(In)Genius, Billionaire (to be), (Introvert) Playboy, (Self-Proclaimed) Philanthropist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
